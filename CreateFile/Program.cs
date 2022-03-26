@@ -1,0 +1,1 @@
+﻿File.Create(@"C:\Users\John Sartain\Documents\visualcodereference\How to create a file with C#\myfile.txt");
